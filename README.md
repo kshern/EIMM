@@ -19,6 +19,11 @@ This project facilitates interaction with different AI models by managing prompt
 *   `README.md`: This file.
 *   `README_zh.md`: Chinese version of this README.
 
+## Base Prompts
+
+*   [`base_prompts_zh.txt`](prompts/base_prompts_zh.txt): Base prompts in Chinese.
+*   [`base_prompts_en.txt`](prompts/base_prompts_en.txt): Base prompts in English.
+
 ## Model List
 
 *   [`1.Opportunity_Cost_Model`](models/1.Opportunity_Cost_Model/README.md): Opportunity Cost Mental Model

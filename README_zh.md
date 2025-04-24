@@ -20,6 +20,12 @@
 *   `README.md`: 本文件（英文版）。
 *   `README_zh.md`: 本文件的中文版本。
 
+## 基础提示文件
+
+*   [`base_prompts_zh.txt`](prompts/base_prompts_zh.txt): 中文基础提示
+*   [`base_prompts_en.txt`](prompts/base_prompts_en.txt): 英文基础提示
+
+
 ## 模型列表
 
 *   [`1.Opportunity_Cost_Model`](models/1.Opportunity_Cost_Model/README_zh.md): 机会成本思维模型

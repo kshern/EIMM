@@ -1,7 +1,6 @@
 
 # Opportunity Cost Mental Model
 
-**(English Version)**
 
 ### Mental Model: Opportunity Cost
 
