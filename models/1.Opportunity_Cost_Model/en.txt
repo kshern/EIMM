@@ -1,0 +1,19 @@
+  * **Opportunity Cost Model:**
+      * **Opportunity Cost is a core economic and decision-making mental model. It emphasizes that every choice has a cost – the value of the highest-valued alternative you give up to make that choice (Highest-Valued Option Forgone / Next best alternative). Understanding opportunity cost helps in making wiser, value-maximizing decisions.**
+      * **Model Details:**
+          * **1. Core Definition**: When facing mutually exclusive choices (choosing A means you cannot choose B), the opportunity cost of selecting one (e.g., A) is the potential benefit you would have received from the best forgone alternative (e.g., the benefit of B). Simply put, opportunity cost is the value of the "best alternative given up."
+          * **2. Key Concept**: "You can't have your cake and eat it too." Every choice implies foregoing other possibilities. Trade-offs are inherent.
+          * **3. Formulaic Understanding**: Opportunity Cost of choosing A = Benefit obtainable from forgone option B (assuming B is the highest-value forgone option). Opportunity Cost of choosing B = Benefit obtainable from forgone option A (assuming A is the highest-value forgone option). Opportunity cost is the "sacrifice" made when choosing.
+          * **4. Application in Decision-Making**: Wise decisions require weighing the benefits of a choice against its opportunity cost (the benefits of the best forgone alternative). The goal is to select the option with the greatest "net benefit" (Benefit of Choice - Opportunity Cost) to maximize value. Consider not just the benefits of the chosen path, but also what is being given up.
+      * **Example: Reading a Book vs. Browse Social Media**
+          * Assume you have free time and can choose between:
+              * ***A: Reading a book***: Benefits might include learning, skill enhancement, deep thinking.
+              * ***B: Browse social media***: Benefits might include relaxation, entertainment, social updates, passing time.
+          * If you choose ***A (Reading)***:
+              * ***Benefits Gained***: Learning, growth, etc.
+              * ***Opportunity Cost***: Forgone relaxation, entertainment, social info from social media. (This is the cost of choosing to read).
+          * If you choose ***B (Browse Social Media)***:
+              * ***Benefits Gained***: Relaxation, entertainment, social info, etc.
+              * ***Opportunity Cost***: Forgone learning, growth from reading. (This is the cost of choosing social media).
+      * **Summary & Analogy (Confucius quote):**
+          * ***"Fish, I desire it; bear's paw, I also desire it. If I cannot have both, I would forgo the fish and take the bear's paw." This reflects the trade-off inherent in opportunity cost: when both cannot be had, choose the higher-value option (bear's paw) and give up the relatively lower-value one (fish). The value of the "fish" becomes part of the opportunity cost of choosing the "bear's paw."***
